@@ -8,7 +8,7 @@
 - artifact_entity
 - components
 - pipeline
-- main
+- app.py
 
 
 # How to run?
