@@ -34,7 +34,7 @@ gcloud init
 
 # Hate_Speech_Detection_NLP
 
-![Hate Speech Detection](https://www.researchgate.net/publication/351642007/figure/fig2/AS:1024661403996160@1621309724041/Hate-speech-detection-Model.ppm)
+![Hate Speech Detection](https://jpinfotech.org/wp-content/uploads/2023/06/JPJ2221-FADOHS-Framework-for-Detection-and.jpg)
 
 ## 🚀 Project Overview
 
